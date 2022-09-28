@@ -19,4 +19,4 @@ Legal of Legends is highly competitive, fast paced action-strategy game designed
 
 ## Reference
 
-Michel’s fanboi. (2020, April). League of Legends Diamond Ranked Games (10 min), Version 1. Retrieved May 27, 2020 from https://www.kaggle.com/bobbyscience/league-of-legends- diamond-ranked-games-10-min
+Michel’s fanboi. (2020, April). League of Legends Diamond Ranked Games (10 min), Version 1. Retrieved May 27, 2020 from https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
